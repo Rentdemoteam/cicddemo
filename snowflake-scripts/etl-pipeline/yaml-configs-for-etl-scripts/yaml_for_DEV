@@ -1,0 +1,8 @@
+config-version: 1	
+	
+# Define values for the variables to replaced in change scripts
+vars:
+   VAR_DB: "LZ_WEBLOG_DEV"
+   VAR_SCH: "RENT"
+   VAR_ROLE: "SYSADMIN"
+   VAR_WH: "LANDING_WH"
