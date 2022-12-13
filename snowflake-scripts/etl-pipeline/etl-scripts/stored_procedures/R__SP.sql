@@ -10,4 +10,4 @@ return 'success';
 end;
 $$;
 
-
+call demo_sp();
